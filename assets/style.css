@@ -1,5 +1,5 @@
 * {
-    background-color: #BFFFEF;
+    background-color: salmon;
     font-family:Arial, Helvetica, sans-serif;
     color: #9a3d54;
     margin: 0;
@@ -12,12 +12,12 @@ header {
     right: 1px;
     text-align: right;
     padding: 10px;
-    background-color: salmon;
+    background-color: purple;
     width: 100vw;
 }
 
 ul {
-    background-color: salmon;
+    background-color: purple;
 }
 
 li {
@@ -25,7 +25,8 @@ li {
 }
 
 body {
-    top: 40px;
+    margin-top: 40px;
+    max-width: 60%;
 }
 
 .align-center {
@@ -34,6 +35,6 @@ body {
 }
 
 .content-style {
-    background-color: salmon;
+    background-color: rgb(255, 0, 123);
     padding: 10px;
 }
