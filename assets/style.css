@@ -1,0 +1,39 @@
+* {
+    background-color: #BFFFEF;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #9a3d54;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    right: 1px;
+    text-align: right;
+    padding: 10px;
+    background-color: salmon;
+    width: 100vw;
+}
+
+ul {
+    background-color: salmon;
+}
+
+li {
+    display: inline;
+}
+
+body {
+    top: 40px;
+}
+
+.align-center {
+    justify-content: center;
+    text-align: center;
+}
+
+.content-style {
+    background-color: salmon;
+    padding: 10px;
+}
